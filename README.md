@@ -1,14 +1,13 @@
-# 🧠 AiTech — AI/ML Engineering Notes
+# AiTech — Engineering Notes on AI/ML Systems
 
-This is my personal knowledge base where I document everything I learn about AI, ML, and LLMs.
-Written in a way that's easy to read, understand, and revise — like reading a well-structured book.
+Notes on how modern AI systems work under the hood. Written from an engineering perspective with emphasis on implementation details, trade-offs, and practical behavior.
 
 ---
 
-## 📚 Table of Contents
+## Topics
 
 | # | Topic | Description |
 |---|-------|-------------|
-| 1 | [Tokenization](./01-Tokenization/README.md) | How LLMs break text into pieces they can understand |
+| 1 | [Tokenization](./01-Tokenization/README.md) | Text-to-token conversion, BPE and Unigram algorithms, vocabulary design trade-offs |
 
 ---
